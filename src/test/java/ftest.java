@@ -7,8 +7,8 @@ public class ftest {
         browser.setDriver();
 
 
-
-
-
+    }public void test2(){
+        System.out.println("test2");
     }
+
 }
